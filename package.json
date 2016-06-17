@@ -1,0 +1,32 @@
+{
+  "name": "ae-temporal-to-cubic-ease",
+  "version": "1.0.0",
+  "description": "This module will convert keyframe temporal ease data exported from ae-to-json to a cubic ease equation definition",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Mikko Haapoja",
+    "email": "me@mikkoh.com",
+    "url": "https://github.com/mikkoh"
+  },
+  "dependencies": {
+    "xtend": "^4.0.1"
+  },
+  "devDependencies": {
+    "tape": "^4.5.1"
+  },
+  "scripts": {
+    "test": "node test/"
+  },
+  "keywords": [
+    "after,effects,ae-to-json,ae,keyframe,ease,cubic,quadratic,animation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikkoh/ae-temporal-to-cubic-ease.git"
+  },
+  "homepage": "https://github.com/mikkoh/ae-temporal-to-cubic-ease",
+  "bugs": {
+    "url": "https://github.com/mikkoh/ae-temporal-to-cubic-ease/issues"
+  }
+}

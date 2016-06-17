@@ -1,0 +1,140 @@
+{
+  "active": true,
+  "canSetExpression": true,
+  "canVaryOverTime": true,
+  "enabled": true,
+  "isModified": true,
+  "isSeparationLeader": true,
+  "isSpatial": true,
+  "isTimeVarying": true,
+  "matchName": "ADBE Position",
+  "name": "Position",
+  "numKeys": 3,
+  "propertyDepth": 2,
+  "propertyIndex": 2,
+  "propertyType": "PROPERTY",
+  "propertyValueType": "ThreeD_SPATIAL",
+  "selectedKeys": [],
+  "unitsText": "pixels",
+  "value": [
+    175.442929716553,
+    -192.257998802426,
+    753.715438883669
+  ],
+  "keyframes": [
+    [
+      0,
+      [
+        200,
+        1258,
+        1290
+      ],
+      {
+        "easeIn": {
+          "type": "linear",
+          "temporalEase": [
+            {
+              "speed": 0,
+              "influence": 16.666666667
+            }
+          ],
+          "spatialTangent": [
+            0,
+            156.33332824707,
+            215
+          ]
+        },
+        "easeOut": {
+          "type": "linear",
+          "temporalEase": [
+            {
+              "speed": 5601.95746770307,
+              "influence": 16.666666667
+            }
+          ],
+          "spatialTangent": [
+            0,
+            -71.9056625366211,
+            -98.8894424438477
+          ]
+        }
+      }
+    ],
+    [
+      0.3,
+      [
+        175.390663972227,
+        -193.593251146472,
+        709.496295059903
+      ],
+      {
+        "easeIn": {
+          "type": "bezier",
+          "temporalEase": [
+            {
+              "speed": 0,
+              "influence": 33.333333
+            }
+          ],
+          "spatialTangent": [
+            0,
+            -20.9278430938721,
+            566.27197265625
+          ]
+        },
+        "easeOut": {
+          "type": "bezier",
+          "temporalEase": [
+            {
+              "speed": 0,
+              "influence": 33.333333
+            }
+          ],
+          "spatialTangent": [
+            0,
+            13.2039480209351,
+            -357.276428222656
+          ]
+        }
+      }
+    ],
+    [
+      0.66666666666667,
+      [
+        200,
+        320,
+        0
+      ],
+      {
+        "easeIn": {
+          "type": "linear",
+          "temporalEase": [
+            {
+              "speed": 2487.6239740649,
+              "influence": 16.666666667
+            }
+          ],
+          "spatialTangent": [
+            0,
+            84.4276733398438,
+            116.110557556152
+          ]
+        },
+        "easeOut": {
+          "type": "linear",
+          "temporalEase": [
+            {
+              "speed": 0,
+              "influence": 16.666666667
+            }
+          ],
+          "spatialTangent": [
+            0,
+            -156.33332824707,
+            -215
+          ]
+        }
+      }
+    ]
+  ]
+}
