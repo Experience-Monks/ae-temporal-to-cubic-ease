@@ -10,7 +10,7 @@ This module is heavily inspired by [`bodymovin`'s](https://github.com/bodymovin/
 
 [![NPM](https://nodei.co/npm/ae-temporal-to-cubic-ease.png)](https://www.npmjs.com/package/ae-temporal-to-cubic-ease)
 
-In the following example an JSON file which is exported via the [`ae-to-json`](https://www.npmjs.com/package/ae-to-json) module is passed to `ae-temporal-to-cubic-ease` and when a keyframe is encountered with easing a cubic bezier curve defintion which defines an an ease is added to it:
+In the following example a JSON file which is exported via the [`ae-to-json`](https://www.npmjs.com/package/ae-to-json) module is passed to `ae-temporal-to-cubic-ease` and when a keyframe is encountered with easing a cubic bezier curve definition which defines an ease is added to it:
 
 ```javascript
 var exportFromAEtoJSON = require('export-from-ae-to-json.json');
